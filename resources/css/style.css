@@ -83,6 +83,11 @@ h4{
   width: 100%;
   margin-bottom: 20px;
 }
+
+.footer{
+  height: auto;
+  margin-top: 5.85rem;
+}
 .footer_box{
   padding-top: 5.2rem;
   padding-bottom: 5.2rem;
@@ -97,6 +102,14 @@ h4{
   align-items: center;
   width: 42rem;
   height: auto;
+}
+.footer_row h2{
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding: 0px;
+}
+.banner{
+  margin-top: 1.4rem;
 }
 
 
